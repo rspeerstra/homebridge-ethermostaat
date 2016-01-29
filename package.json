@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-ethermostaat",
+  "version": "0.0.1",
+  "description": "thermostat plugin for homebridge: https://github.com/rspeerstra/homebridge-ethermostaat",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-ethermostaat"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "Robin Speerstra"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rspeerstra/homebridge-ethermostaat.git"
+  },
+  "dependencies": {
+    "request": "^2.65.0"
+  },
+ }
